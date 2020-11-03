@@ -8,7 +8,7 @@ header {
 	text-align: center;
 }
 body {
-	background: #BDBDBD;
+	background: lightgray;
 	margin: 0;
 }
 
@@ -19,7 +19,7 @@ div {
 div.post {
 	background: white;
 	margin: 0; 
-	border-top: 50px solid #BDBDBD;
+	border-top: 50px solid lightgray;
 }
 
 div.posts-container {
